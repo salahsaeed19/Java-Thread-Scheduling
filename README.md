@@ -36,7 +36,7 @@ You can compile and run each Java file independently using any Java IDE or the t
 javac BasicConcurrentVersion.java
 javac JoinVersion.java
 javac SleepVersion.java
-```
+````
 
 ### Run
 
@@ -50,18 +50,19 @@ java SleepVersion
 
 ## Concepts Demonstrated
 
-- **Thread Creation**: Using `Runnable` and `Thread` classes.
-- **Concurrent Execution**: Running multiple threads at the same time.
-- **Thread Coordination**: Using `Thread.join()` to control execution order.
-- **Thread Sleeping**: Using `Thread.sleep()` to introduce delay and visualize thread switching.
+* **Thread Creation**: Using `Runnable` and `Thread` classes.
+* **Concurrent Execution**: Running multiple threads at the same time.
+* **Thread Coordination**: Using `Thread.join()` to control execution order.
+* **Thread Sleeping**: Using `Thread.sleep()` to introduce delay and visualize thread switching.
 
 ---
 
 ## Author
 
-- 👨‍💻 Developed by: **Salah ElDin Saeed Abu Saif**  
-- 📘 Course: Java Programming / Operating Systems / Concurrency Concepts  
-- 🎓 Assignment: Thread Scheduling – Java
+* 👨‍💻 Developed by: **Salah ElDin Saeed Abu Saif**
+* 🎓 **Software Engineering** at **Palestine University**, majoring in **Software Engineering**
+* 📘 Course: **Concurrent and Real-Time Programming**
+* 🧑‍🏫 Supervisor: **Dr. Jamil Alagha**
 
 ---
 
