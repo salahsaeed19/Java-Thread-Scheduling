@@ -59,7 +59,7 @@ java SleepVersion
 
 ## Author
 
-* 👨‍💻 Developed by: **Salah ElDin Saeed Abu Saif 120190964**
+* 👨‍💻 Developed by: **Salah ElDin Saeed Abu Saif (120190964)**
 * 🎓 **Software Engineering** at **Palestine University**, majoring in **Software Engineering**
 * 📘 Course: **Concurrent and Real-Time Programming**
 * 🧑‍🏫 Supervisor: **Dr. Jamil Alagha**
